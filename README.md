@@ -1,4 +1,4 @@
-# Valentine Surprise 💝
+# Valentine Surprise 
 
 A small Valentine-themed interactive surprise page built as a single-file web experience. The project opens with a floating card, animated hearts, a decorative tree scene, sound effects, and a playful yes/no interaction flow.
 
